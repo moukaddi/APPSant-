@@ -1,0 +1,2 @@
+app's name: santé 
+object: gerer la snaté
